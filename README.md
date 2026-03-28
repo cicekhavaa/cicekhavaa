@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+build+websites;Future+Full+Stack+Developer;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+websites+with+HTML+%26+CSS;Future+Full+Stack+Developer;Always+learning+new+things" />
 </p>
 
 ---
@@ -13,21 +13,21 @@
 ### 💻 About Me
 
 - 🎓 IT student at **HTL Villach (2nd year)**
-- 🌐 Built several websites using **HTML & CSS**
-- 🛠️ Tools: **VS Code, Arduino**
-- 🤖 Interested in **AI & Web Development**
+- 🌐 Designed **3 websites** using HTML & CSS
+- 🛠️ Working with **VS Code & Arduino**
+- 🤖 Interested in **Web Development & AI**
 - 🎯 Goal: Become a **Full Stack Developer**
 
 ---
 
 ### ⚙️ Tech Stack
 
-#### 💻 Languages
+#### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-#### ⚙️ Tools
+#### ⚙️ Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,arduino,git" />
 </p>
@@ -36,8 +36,8 @@
 
 ### 🏆 Projects
 
-- 🌐 2–3 Websites (HTML & CSS)
-- 🎓 School Web Projects
+- 🌐 3 Websites (HTML & CSS)
+- 🎓 School Web Development Projects
 
 ---
 
@@ -53,7 +53,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cicekhavaa&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cicekhavaa&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -69,23 +69,21 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📊 LeetCode Stats (optional)
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicekhavaa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-- 📧 Email: havaa.cicekk@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/hava-cicek/
+<p align="center">
+  <a href="mailto:havaa.cicekk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hava-cicek/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
