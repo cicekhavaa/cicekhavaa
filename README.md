@@ -3,7 +3,6 @@
   <i>A passionate IT student working towards becoming a Full Stack Developer and improving in AI</i>
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+websites+with+HTML+%26+CSS;Future+Full+Stack+Developer;Always+learning+new+things" />
 </p>
@@ -25,14 +24,15 @@
 
 ### 💻 Programmming Languages
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+</p>
 
 ### ⚙️ Tools and Technologies
 
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,arduino" />
+</p>
 ---
 
 ### 🏆 Awards and Projects
@@ -51,37 +51,15 @@
 ---
 
 ### 📫 Let's Connect
+- 📧 Email: [havaa.cicekk@gmail.com](mailto:havaa.cicekk@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hava-cicek/)
 
-<p align="center">
-  <a href="mailto:havaa.cicekk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hava-cicek/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cicekhavaa&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cicekhavaa&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicekhavaa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
