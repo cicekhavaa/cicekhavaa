@@ -4,6 +4,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+websites+with+HTML+%26+CSS;Future+Full+Stack+Developer;Always+learning+new+things" />
+</p>
+
 ---
 
 ### 💻 About Me
@@ -39,28 +43,39 @@
 
 ### 🌍 Languages
 
-- 🇹🇷 Turkish – Native
-- 🇩🇪 German – B2
-- 🇬🇧 English – B1
-- 🇰🇷 Kurdish – Native
+- 🇹🇷 Turkish – Native  
+- 🇰🇷 Kurdish – Native  
+- 🇩🇪 German – B2  
+- 🇬🇧 English – B1  
 
 ---
 
 ### 📫 Let's Connect
-- 📧 Email: [havaa.cicekk@gmail.com]
-- 💼 [LinkedIn] (https://www.linkedin.com/in/hava-cicek/)
+- 📧 Email: [havaa.cicekk@gmail.com](mailto:havaa.cicekk@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hava-cicek/)
 
 ---
 
 ### 🏆 GitHub Trophies
-[]
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cicekhavaa&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cicekhavaa&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cicekhavaa&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicekhavaa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
