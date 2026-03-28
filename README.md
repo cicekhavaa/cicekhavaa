@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,arduino" />
 </p>
+
 ---
 
 ### 🏆 Awards and Projects
